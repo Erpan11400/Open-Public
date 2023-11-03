@@ -1,3 +1,4 @@
+//DESKRIPSI
 /*Pak Dengklek memiliki A ekor bebek jantan dan B ekor bebek betina.
 Tentukan banyaknya total bebek yang dimiliki Pak Dengklek.*/
 
