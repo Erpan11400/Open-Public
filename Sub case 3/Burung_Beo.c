@@ -1,3 +1,4 @@
+//DESKRIPSI
 /*Di samping memelihara bebek, Pak Dengklek pun memiliki seekor burung beo kesayangan.
 Burung beo ini selalu mengulangi secara persis apapun ucapan yang dilontarkan kepadanya.
 
